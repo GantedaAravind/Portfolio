@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "daisyui": "^5.0.0-beta.9",
+    "daisyui": "^5.0.0",
     "parcel": "^2.13.3",
     "parcel-reporter-static-files-copy": "^1.5.3",
     "postcss-preset-env": "^10.1.5",
